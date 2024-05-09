@@ -37,7 +37,7 @@
     "cheerio": "^1.0.0-rc.12",
     "color": "^4.2.3",
     "compare-versions": "^6.1.0",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "dayjs": "^1.11.9",
     "deepmerge": "^4.3.1",
     "he": "^1.2.0",
